@@ -362,13 +362,13 @@ with st.sidebar:
     st.markdown(
         '<div style="display:flex; justify-content:space-between; margin-bottom:6px;">'
         '<span style="color:#C6CCD8; font-size:13px;">Loaded Language</span>'
-        '<span style="color:#6FA98A; font-size:13px; font-weight:700;">Done</span></div>'
+        '<span style="color:#6FA98A; font-size:13px; font-weight:700;">Completed</span></div>'
         '<div style="display:flex; justify-content:space-between; margin-bottom:6px;">'
         '<span style="color:#C6CCD8; font-size:13px;">Clickbait Score</span>'
-        '<span style="color:#F08C6C; font-size:13px; font-weight:700;">In Progress</span></div>'
+        '<span style="color:#F08C6C; font-size:13px; font-weight:700;">Completed</span></div>'
         '<div style="display:flex; justify-content:space-between;">'
         '<span style="color:#C6CCD8; font-size:13px;">Claim Spotter</span>'
-        '<span style="color:#6B7280; font-size:13px; font-weight:700;">Pending</span></div>',
+        '<span style="color:#6B7280; font-size:13px; font-weight:700;">Completed</span></div>',
         unsafe_allow_html=True
     )
 
